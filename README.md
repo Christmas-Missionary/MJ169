@@ -6,8 +6,7 @@ https://christmas-missionary.itch.io/the-last-hexagon-jam-edition
 The Unlicense applies to all source code except for the fonts and sound effects.  
 However, those are under the public domain, too.  
 
-I'm going to figure out how to split off while maintaining the git history.  
-I heard you `clone` it.
+This will be archived soon
 
 # How to run 
 1. Download the .zip file
@@ -32,4 +31,4 @@ https://www.fontspace.com/home-video-font-f116641
 # It doesn't work.
 1. If you are on safari, check to see if Lockdown mode is off.
 2. If you are on firefox, see if WebGL is on.  
-Otherwise, comment the error on itch.io.
+Otherwise, comment the error on itch.io or report an issue [here](https://github.com/Christmas-Missionary/The-Last-Hexagon/issues/new)
