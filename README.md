@@ -8,7 +8,7 @@ However, those are under the public domain, too.
 
 # This is archived, why?
 
-I'd like for the submission to be exactly as is.  
+I'd like for the submission and its source code to be exactly as is.  
 If you want to see or use the source code to an updated version, go [here](https://github.com/Christmas-Missionary/The-Last-Hexagon).
 
 # How to run 
