@@ -3,7 +3,7 @@
 This is a game I made in 72 hours for Mini Jam 169.  
 It is also the first game I made for itch.io.    
 https://christmas-missionary.itch.io/the-last-hexagon-jam-edition  
-The Unlicense applies to all source code except for the fonts and sound effects.  
+The 0BSD license applies to all source code except for the fonts and sound effects.  
 However, those are under the public domain, too.  
 
 # This is archived, why?
