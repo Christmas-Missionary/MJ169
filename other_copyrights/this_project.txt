@@ -1,0 +1,13 @@
+This file is for assets used for this project specifically,
+detailing where the asset is, where it came from, its copyright, and its license.
+If the file path starts with "res://", it is a path relative to the top directory of the repo, The-Last-Hexagon.
+
+Files: res://fonts/homevideo.ttf
+Source: https://www.fontspace.com/home-video-font-f116641
+Copyright: 2024, GGBotNet
+License: CC0-1.0
+
+Files: res://fonts/Unitblock-JpJma.ttf
+Source: https://www.fontspace.com/unitblock-font-f104834
+Copyright: 2024, GGBotNet
+License: CC0-1.0
